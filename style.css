@@ -1,0 +1,32 @@
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transition: all 0.3s ease-in-out;
+} */
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+
+/* /* .blue-paragraph {
+    color: blue;
+} */
+
+.blue-paragraph {
+    color: blue;
+}
+
+.green-paragraph {
+    color: green;
+}
+
